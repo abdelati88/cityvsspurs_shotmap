@@ -1,0 +1,23 @@
+﻿minute_display,team,player,pos,no,xg,x,y,outcome,shotType,goalType
+35,Away,Brennan Johnson,F,22,0.37130784988403,11.3,47.2,Goal,goal,regular
+45+2,Away,João Palhinha,M,6,0.13642904162407,11.3,57.7,Goal,goal,regular
+54,Away,Pape Matar Sarr,M,29,0.03343154117465,9.4,41.5,Saved,save,
+56,Away,Richarlison,F,9,0.040253330022097,8.8,41.7,Blocked,block,
+57,Away,Brennan Johnson,F,22,0.026146287098527,20.7,27.6,Missed,miss,
+61,Away,Richarlison,F,9,0.027124814689159,8.0,39.5,Missed,miss,
+62,Away,Richarlison,F,9,0.033819697797298,7.0,39.2,Missed,miss,
+87,Away,Wilson Odobert,F,28,0.16679203510284,13.9,53.0,Missed,miss,
+9,Away,Pedro Porro,D,23,0.027680208906531,15.4,31.5,Missed,miss,
+9,Away,Pedro Porro,D,23,0.054045293480158,20.0,30.7,Blocked,block,
+90+3,Away,Wilson Odobert,F,28,0.079545646905899,9.9,41.9,Saved,save,
+90+3,Away,Dominic Solanke,F,19,0.12118001282215,12.3,60.7,Saved,save,
+10,Home,Omar Marmoush,F,7,0.020023187622428,4.0,28.3,Missed,miss,
+18,Home,Omar Marmoush,F,7,0.020321894437075,20.7,29.1,Saved,save,
+19,Home,Tijjani Reijnders,M,4,0.041604541242123,18.8,45.6,Blocked,block,
+28,Home,Omar Marmoush,F,7,0.60694760084152,11.1,55.0,Saved,save,
+45+7,Home,Erling Haaland,F,9,0.47085225582123,4.8,51.5,Missed,miss,
+48,Home,Nathan Aké,D,6,0.14012616872787,10.4,39.5,Blocked,block,
+70,Home,Rico Lewis,D,82,0.024128535762429,23.5,55.2,Missed,miss,
+76,Home,Rodri,M,16,0.047047350555658,8.6,56.8,Saved,save,
+79,Home,Phil Foden,M,47,0.15558521449566,7.4,44.7,Blocked,block,
+85,Home,Phil Foden,M,47,0.025860644876957,24.6,40.1,Saved,save,
